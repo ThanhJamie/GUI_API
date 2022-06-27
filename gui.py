@@ -31,7 +31,7 @@ def predictAge():
     my_label_example.pack()
 
 def Predict():
-    ret
+    return "123"
 
 
 frame = Frame(ws)
